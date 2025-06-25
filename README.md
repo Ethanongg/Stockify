@@ -1,0 +1,2 @@
+# Stockify
+Algorithmic trading simulation
